@@ -69,15 +69,7 @@ def send_messages(tokens_file, target_id, messages_file, haters_name, speed):
 def main():
     approval()
     
-    print(Fore.MAGENTA + " 
-██████╗ ███████╗██╗   ██╗██╗
-██╔══██╗██╔════╝██║   ██║██║
-██║  ██║█████╗  ██║   ██║██║
-██║  ██║██╔══╝  ╚██╗ ██╔╝██║
-██████╔╝███████╗ ╚████╔╝ ██║
-╚═════╝ ╚══════╝  ╚═══╝  ╚═╝
-                            
- ")
+    print(Fore.MAGENTA +"Devi Bashmash ka Tool use kr cikhna non stop hye ")
     print(Fore.CYAN + "------------------------------------")
     # Get file paths and other inputs from the user
     tokens_file = input(Fore.MAGENTA + "Enter the path to the tokens file: ").strip()
